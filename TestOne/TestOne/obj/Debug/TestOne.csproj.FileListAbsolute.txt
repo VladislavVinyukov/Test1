@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\TestOne\TestOne\bin\Debug\TestOne.exe.config
+C:\Users\admin\source\repos\TestOne\TestOne\bin\Debug\TestOne.exe
+C:\Users\admin\source\repos\TestOne\TestOne\bin\Debug\TestOne.pdb
+C:\Users\admin\source\repos\TestOne\TestOne\obj\Debug\TestOne.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\TestOne\TestOne\obj\Debug\TestOne.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TestOne\TestOne\obj\Debug\TestOne.exe
+C:\Users\admin\source\repos\TestOne\TestOne\obj\Debug\TestOne.pdb
